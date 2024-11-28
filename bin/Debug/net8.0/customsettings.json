@@ -1,0 +1,7 @@
+{
+  "CustomSettings": {
+    "CustomSetting1": "This is a custom setting 1",
+    "CustomSetting2": "This is a custom setting 2"
+  },
+  "EnableSwagger": true
+}

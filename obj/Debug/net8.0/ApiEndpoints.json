@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DynamicConfigurationManagement.Controllers.ConfigController",
+    "Method": "Get",
+    "RelativePath": "api/Config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

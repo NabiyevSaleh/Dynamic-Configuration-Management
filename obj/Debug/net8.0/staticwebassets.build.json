@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E/dLq27Y4ERhT11id6T32XquxmYm36WW41QRNq8wxQQ=",
+  "Source": "DynamicConfigurationManagement",
+  "BasePath": "_content/DynamicConfigurationManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
